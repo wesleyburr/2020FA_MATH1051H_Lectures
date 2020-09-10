@@ -1,0 +1,55 @@
+---
+title: "2020FA MATH 1051H: Lecture Links"
+author: 'Dr. Wesley S. Burr'
+date: 2020-09-10
+output:
+  xaringan::moon_reader:
+    chakra: remark-latest.min.js
+    lib_dir: libs
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      highlightLanguage: r
+    includes:
+      in_header: header.html
+    countIncrementalSlides: false
+    css: example.css
+---
+
+class: inverse
+
+```{r include=FALSE}
+library(ggplot2)
+filter <- dplyr::filter
+knitr::opts_chunk$set(warning=FALSE, message=FALSE, fig.width=10.5, fig.height=4, 
+  comment=NA, rows.print=16)
+theme_set(theme_gray(base_size = 24))
+```
+
+## Lecture Slide Links
+
+The following slides have links to the lecture slides for the 2020FA semester offering of
+MATH 1051H at Trent University. 
+
+<br />
+
+* the HTML slides are the canonical format
+* the PDFs will be used for markup purposes on tablets
+
+---
+
+class: inverse
+
+## Week 01
+
+<a href="./Week01/week01.html">HTML</a>; 
+<a href="./Week01/week01.pdf">PDF</a>;
+
+<br/>
+
+**Lecture 01 - Introduction**
+
+<a href="./Lecture01/lecture01.html">HTML</a>; 
+<a href="./Lecture01/lecture01.pdf">PDF</a>;
+
+<br />

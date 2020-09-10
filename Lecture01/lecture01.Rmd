@@ -1,0 +1,163 @@
+---
+title: '1051H 2020FA: Lecture #01'
+author: "Wesley Burr"
+date: "11/09/2020"
+output:
+  ioslides_presentation:
+    css: ../style.css
+    fig_caption: yes
+    font-family: Lato Semibold
+    font-import: http://fonts.googleapis.com/css?family=Lato
+    widescreen: yes
+  beamer_presentation: default
+---
+
+# Welcome Information
+
+## Contact Details
+
+* **Me**: Dr. Wesley Burr
+* **Email**: wesleyburr@trentu.ca (only for important, personal issues!)
+* **Office**: ENW/GCS 335 (not that this matters ... no in person contact)
+* **Student Contact Hours**: Posted on Blackboard and Teams - throughout the week
+
+* **Instructor for Section B**: Dr. Haile Gessesse
+* **Email**: hailegessesse@trentu.ca (same!)
+
+## Digital Tech & Links
+
+I believe in the power of technology to make teaching and learning easier. So we're going
+to use quite a bit of it in this class. Plus, since we're forced to be remote ... we
+have little choice!
+
+* **Blackboard**: official grades, class-wide communications, paper assignment postings, slides and (lots) of videos
+* **WeBWorK**: assignments (digital)
+* **Chat ('Teams')**: asking questions, communicating, sharing, talking to the TAs and me; also class-wide communications and paper assignment postings
+* **RStudio**: learning to **do** statistics and data analysis (4 assignments) - **new computer program**
+* **math.trentu.ca**: copies of the lecture slides in HTML format
+* **Video Chat**: we will be available to video chat via both Zoom (official larger groups) and Microsoft Teams (small groups or 1:1 with a tutor or professor)
+
+## WeBWorK
+
+* Linked from Blackboard
+* Posted demo in the Extra Videos
+* First two assignments (worth 4% each!) already live
+* Multiple attempts (**varies** by question)
+* Some questions require that you get all parts correct to get the point; others give partial
+credit. Read carefully to tell the difference (it's at the bottom, in italics)
+* Assignments due throughout the term (10 in total) - worth 40\% of your grade! 
+
+## 'Teams' Chat Interface
+
+* persistent
+* multiple user
+* replaces email
+* where the TAs and professors will spend time outside of class & office hours
+* there's a video on Blackboard on installing the program, and a quick guide to using it
+* look for the announcement with the invite link
+
+## RStudio
+
+The **R** programming language and interface is **the** language of statistics in the 21st century. 
+
+* MATH 1051H is not a traditional mathematics course
+* Statistics blends mathematics, computer science, data analysis, data science, and philosophy
+* You will be learning to do **data analysis** using **R** in this class
+* Many ways to use RStudio - there's a video on Blackboard going through them, and then
+separate videos going through how to install and use the program 
+
+## Course Overview
+
+Now I'd like to go over the course with you.
+
+## Posted Material
+
+* lectures: about 2 hours per week, 1-4 videos, by topic
+* workshops: one topic per week, 1+ videos, organized sequentially (numbered 1-12)
+* problem solving: at least one video per week
+* extra topics: as often as needed, with announcements
+* summary: every week I will post a summary and chat reminding you of what we're doing,
+and suggesting an order to watch things in, and do things in
+
+## Texts & Software
+
+* OpenIntro Statistics (4th edition: free PDF, or order a paper copy from the Trent Bookstore or Amazon)
+* Book of R: excellent reference for your shelf and doing the big assignments (about $58 in paper, digital copies available on Google Play Books or Amazon for less)
+* Calculator: strongly recommend you don't use one - use R instead!
+* R & RStudio: free for your personal computer, free using Remote Desktop through Trent, **subscription fee** if you want the fancy cloud version (\$5USD per month)
+
+## The Textbook
+
+The textbook we are using is an open-source CC-BY statistics textbook written by some
+excellent folks. The PDF is completely free if you want it, and I encourage all of you
+to at least get a copy of the **4th Edition**.
+
+**There is a link to the 4th Edition on Blackboard**.
+
+## Extra Textbook
+
+In addition, there is a book on the use of R and R programming available in the bookstore (and
+digitally on Google Play Books, and elsewhere). It's a 
+really, really good reference text for the future - most of you will end up using R in a later
+course (especially you BIOL and FRSC folks), and this is the kind of book you keep on your shelf
+for later. It's about \$58 for a dead tree version, or you can save \$20 and get an electronic copy
+from Amazon.
+
+Links:
+
+* [Book of R, paper, Amazon](https://www.amazon.ca/Book-First-Course-Programming-Statistics/dp/1593276516/)
+* [Book of R, Kindle edition, Amazon](https://www.amazon.ca/Book-First-Course-Programming-Statistics-ebook/dp/B01J92NR22/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+* [Book of R, paper, Trent Bookstore](https://www.bkstr.com/trentstore/product/book-of-r-686977-1)
+
+Cheapest price seems to be the Amazon prices. I don't recommend renting the book - if 
+you're going to bother having it at all, buy it and mark it up. Save it for the future. It's a 
+really solid reference.
+
+## Things Worth Marks
+
+* WeBWork2: 40%
+* R Assignments: 4, 10% each (due dates are in the syllabus) - first one posted next week!
+* Final Exam: 20% (on WeBWorK)
+
+## WeBWorK (40%)
+
+WeBWorK is an open-source homework system with automatically graded problems. It allows for
+some fun things like multiple attempts, and in-response math (e.g., you can say 
+"My Answer is [ 2 * 2 + 2 ]" and it will recognize it).
+
+* WeBWorK assignments will all be posted for as long as is reasonable - extensions will be granted
+easily if you need or want them (up to the end of term - extensions for Assignments 9 and 10 are harder)
+* you can work ahead a bit!
+* realistically, you need both lecture plus workshop to successfully do the assignments
+
+## R Assignments (40%, 4x10%)
+
+The R assignments are designed to assess your learning of the material covered mostly
+in the workshops, and demonstrated in class. The first will be a simple syntax check,
+seeing if you've learned how to create documents and use basic features.
+
+The second will be a probability-based assignment, asking you to **do** computations,
+with some file input/output and plotting.
+
+More details on the third and fourth will come later in the term.
+
+## How to Get Help
+
+* Chat: anytime (rotating coverage of TAs and Profs)
+* Synchronous small-group or 1:1 Teams time: schedule will be posted next week, as the TAs get their course schedules sorted
+* read the textbooks
+* Google is surprisingly helpful for learning R stuff - there's a huge wealth of materials
+out there for beginners, some of which we will link to through the term
+
+## A Promise
+
+This is a really difficult time for all of us. None of us want to be doing this remotely.
+So here is my pledge to you - within the limits of the university semester and schedule:
+
+* If you need help, we will provide it to you.
+* If you need extra time because of the stress of COVID, or because of family or health concerns, we will do our very best to provide it to you.
+
+We want you to succeed. If you work hard, and take advantage of all the resources that
+the Dean of Science has made available to us this year (way more than normal!), we will
+do everything we can to help you get there.
+
