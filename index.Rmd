@@ -1,7 +1,7 @@
 ---
 title: "2020FA MATH 1051H: Lecture Links"
 author: 'Dr. Wesley S. Burr'
-date: 2020-09-12
+date: 2020-09-15
 output:
   xaringan::moon_reader:
     chakra: remark-latest.min.js
@@ -58,5 +58,13 @@ class: inverse
 
 <a href="./Lecture02/lecture02.html">HTML</a>; 
 <a href="./Lecture02/lecture02.pdf">PDF</a>
+
+<br />
+
+
+**Lecture 02b - Chapter 1**
+
+<a href="./Lecture02b/lecture02b.html">HTML</a>; 
+<a href="./Lecture02b/lecture02b.pdf">PDF</a>
 
 <br />
