@@ -1,0 +1,61 @@
+---
+title: '1051H 2020FA: Week #02'
+author: "Wesley Burr"
+date: "18/09/2020"
+output:
+  ioslides_presentation:
+    css: ../style.css
+    fig_caption: yes
+    font-family: Lato Semibold
+    font-import: http://fonts.googleapis.com/css?family=Lato
+    widescreen: yes
+  beamer_presentation: default
+---
+
+# Week 02
+
+## What is this video?
+
+Reminder: why am I making these videos? 
+
+## Schedule
+
+* Friday 18th - third lecture (experiments and studies) posted
+* Monday 21st - fourth lecture (chapter 2) posted
+* Tuesday 22nd - in-person overview of fourth lecture, plus commentary, Q&A
+* Tuesday 22nd / Wednesday 23rd - second in-person workshop - first "real" code
+
+PDF posted on Blackboard with full details of the next six weeks.
+
+## To Do List
+
+* make sure RStudio is working and making PDFs for you
+* finish WeBWorK Assignment #01 for tonight (Friday night, 18th!)
+* start WeBWorK Assignment #02
+* get caught up on lectures, watch Lecture 03 (today) and 04 (Monday) asynch version
+* finish your readings of Chapter 1 if you haven't already
+* **finish academic integrity** (due 21st!)
+
+## Coming Up
+
+* first WeBWorK assignment is due tonight (18th)
+* second WeBWorK assignment is due next Friday (25th)
+* second asynch theory lecture, Monday morning
+* second in-person Q&A lecture, Tuesday afternoon
+* second in-person workshop on Tuesday/Wednesday (scheduled time!)
+* academic integrity module needs to be finished by September 21st
+
+## Other Details?
+
+* TA and prof office hours ran all week
+    
+    - check the schedule on Blackboard
+    - use them!
+    - Teams is the fast way to get response
+
+## Request
+
+There's a button on WeBWorK that says "Email". If you can, please don't use it
+unless something has gone wrong / crashed. It goes directly to my (Wesley's) email
+**only**, so the TAs can't help answer questions. Asking in Teams is kinder to
+my poor email inbox ... :)
