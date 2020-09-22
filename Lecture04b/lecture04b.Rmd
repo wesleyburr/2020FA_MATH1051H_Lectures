@@ -1,0 +1,166 @@
+---
+title: 'MATH 1051H S61: Lecture #04b (Live)'
+output:
+  ioslides_presentation:
+    css: ../style.css
+    fig_caption: yes
+    font-family: Lato Semibold
+    font-import: http://fonts.googleapis.com/css?family=Lato
+    widescreen: yes
+  beamer_presentation: default
+---
+<style>
+citation {
+  font-size: 4px;
+}
+</style>
+
+<!--  Version 1.0-0
+
+      This version of the slides is taken directly from Mine Çetinkaya-Rundel's lecture slides
+      posted on OpenIntro.org in .pptx and .gdslides format, and moved to Rmd. Originally done
+      as a translation for github.com/wesleyburr/introstat_random/.
+      
+      A large part of the HTML/CSS formatting is janky, and could be cleaned up. Feel free to issue a 
+      pull request if you love HTML and CSS and want to fix this up.
+      
+      - wburr, Sept 10, 2018
+-->
+
+<!-- Chapter 1.6 of version 3, Chapter 2.1 of version 4 -->
+# Examining Numerical Data
+
+## Scatterplots
+
+Let's look at Gapminder briefly (link on Blackboard) and chat about scatterplots.
+
+[Gapminder Link](https://www.gapminder.org/tools/#$chart-type=bubbles)
+
+## Histograms $-$ Extracurricular Hours
+
+* Histograms provide a view of the **data density**. Higher bars represent where the data are relatively more common.
+* Histograms are especially convenient for describing the **shape** of the data distribution.
+* The chosen **bin width** can alter the story the histogram is telling.
+
+<div style="float:center; position:relative; left:250px; top:-10px;">
+```{r, out.width = "400px", echo = FALSE}
+knitr::include_graphics("fig/fig_1_6_hist.png")
+```
+</div>
+
+## Essay on Histograms
+
+Let's look at an interactive essay on histograms made by a colleague in Minnesota.
+
+[Exploring Histograms](http://tinlizzie.org/histograms/)
+
+## Are you typical?
+
+[YouTube Link](https://www.youtube.com/watch?v=4B2xOvKFFz4&ab_channel=NationalGeographic)
+
+# Statistics
+
+## 1. Sample Mean
+
+The average, you've done it before.
+
+$$
+\bar{x} = \frac{1}{n}\sum_{i=1}^{n} x_i
+$$
+
+## 2. Sample Median
+
+The median is the value that splits the data in half when ordered in ascending order.
+
+<center>
+```{r, out.width = "150px", echo = FALSE}
+knitr::include_graphics("fig/fig_1_6_median1.png")
+```
+</center>
+
+If there are an even number of observations, then the median is the average of the two values in the middle.
+
+<center>
+```{r, out.width = "400px", echo = FALSE}
+knitr::include_graphics("fig/fig_1_6_median2.png")
+```
+</center>
+Since the median is the midpoint of the data, 50% of the values are below it. Hence, it is also the 50th **percentile**.
+
+## 3. Variance
+
+**Variance** is roughly the average squared deviation from the mean.
+
+$$
+s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2
+$$
+Why do we use the squared deviation in the calculation of variance?
+
+* To get rid of negatives so that observations equally distant from the mean are weighed equally.
+* To weigh larger deviations more heavily.
+
+## 4. Standard Deviation
+
+The **standard deviation** is the square root of the variance, and has the same units as the data.
+
+$$
+s = \sqrt{s^2}
+$$
+
+## Percentile
+
+A **percentile** is the the smallest value from an ordered list of numbers which is greater than or equal to that percentage of list elements.
+
+**Example**: The $42^\text{nd}$ percentile of the numbers $\{ 1, 2, 3, \cdots, 99, 100 \}$ is 42.
+
+It can become quite complicated when there aren't an even multiple of 100 items!
+
+## 5-7. Q1, Q3 and IQR
+
+* The 25th percentile is also called the first quartile, **Q1**.
+* The 50th percentile is also called the median.
+* The 75th percentile is also called the third quartile, **Q3**.
+
+Between Q1 and Q3 is the middle 50% of the data. The range these data span is called the **interquartile range**, or the IQR.
+
+$$
+\text{IQR} = \text{Q3} - \text{Q1}
+$$
+
+
+## Calculating
+
+I will never expect you to compute a variance or SD without a calculator. In practice, we do this using
+R always. For example,
+
+```{r}
+x <- sample(1:100, size = 20, replace = TRUE)
+mean(x)
+median(x)
+```
+
+## Calculating
+
+```{r}
+var(x)
+sd(x)
+sqrt(var(x))
+```
+
+## Calculating
+
+```{r}
+quantile(x, probs = c(0.25, 0.50, 0.75))
+summary(x)
+```
+
+# Plotting as Numerical Summary 
+
+## Most Important Plot: Boxplot
+
+<center>
+```{r, out.width = "600px", echo = FALSE}
+knitr::include_graphics("fig/fig_1_6_boxplot_anatomy.png")
+```
+</center>
+
