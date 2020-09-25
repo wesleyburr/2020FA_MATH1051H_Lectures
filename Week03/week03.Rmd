@@ -20,7 +20,7 @@ Reminder: why am I making these videos?
 
 ## Schedule
 
-* Friday 25th - fourth lecture (experiments and studies) posted
+* Friday 25th - fifth lecture (summary statistics, plots, and R) posted
 * Monday 28th - sixth lecture (chapter 3!) posted
 * Tuesday 29th - in-person overview of sixth lecture, plus commentary, Q&A
 * Tuesday 29th / Wednesday 30th - third in-person workshop - learning about vectors
