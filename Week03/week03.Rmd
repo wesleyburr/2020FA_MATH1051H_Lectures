@@ -1,0 +1,46 @@
+---
+title: '1051H 2020FA: Week #03'
+author: "Wesley Burr"
+date: "18/09/2020"
+output:
+  ioslides_presentation:
+    css: ../style.css
+    fig_caption: yes
+    font-family: Lato Semibold
+    font-import: http://fonts.googleapis.com/css?family=Lato
+    widescreen: yes
+  beamer_presentation: default
+---
+
+# Week 03
+
+## What is this video?
+
+Reminder: why am I making these videos? 
+
+## Schedule
+
+* Friday 25th - fourth lecture (experiments and studies) posted
+* Monday 28th - sixth lecture (chapter 3!) posted
+* Tuesday 29th - in-person overview of sixth lecture, plus commentary, Q&A
+* Tuesday 29th / Wednesday 30th - third in-person workshop - learning about vectors
+
+PDF posted on Blackboard with full details of the next six weeks.
+
+## To Do List
+
+* make **sure** RStudio is working and making PDFs for you
+* finish WeBWorK Assignment #02 for tonight (Friday night, 25th!)
+* start WeBWorK Assignment #03
+* get caught up on lectures, watch Lecture 05 (today) and 06 (Monday) asynch version
+* finish your readings of Chapter 2 if you haven't already
+* get started on the R Assignment #1
+
+## Other Details?
+
+* TA and prof office hours ran all week
+    
+    - check the schedule on Blackboard
+    - use them!
+    - Teams is the fast way to get response
+    - starting to see good usage: keep it up!
