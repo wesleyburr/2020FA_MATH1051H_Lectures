@@ -1,7 +1,7 @@
 ---
 title: "2020FA MATH 1051H: Lecture Links"
 author: 'Dr. Wesley S. Burr'
-date: 2020-09-25
+date: 2020-10-02
 output:
   xaringan::moon_reader:
     chakra: remark-latest.min.js
@@ -113,3 +113,35 @@ class: inverse
 
 <br />
 
+**Lecture 06 - Introduction to Probability**
+
+<a href="./Lecture06/lecture06.html">HTML</a>; 
+<a href="./Lecture06/lecture06.pdf">PDF</a>
+
+<br />
+
+
+---
+
+class: inverse
+
+## Week 04
+
+<a href="./Week04/week04.html">HTML</a>; 
+<a href="./Week04/week04.pdf">PDF</a>
+
+<br/>
+
+**Lecture 07 - Random Variables**
+
+<a href="./Lecture07/lecture07.html">HTML</a>; 
+<a href="./Lecture07/lecture07.pdf">PDF</a>
+
+<br />
+
+**Lecture 08 - Binomial and Normal Distributions**
+
+<a href="./Lecture08/lecture08.html">HTML</a>; 
+<a href="./Lecture08/lecture08.pdf">PDF</a>
+
+<br />

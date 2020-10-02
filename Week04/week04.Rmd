@@ -1,0 +1,73 @@
+---
+title: '1051H 2020FA: Week #04'
+author: "Wesley Burr"
+date: "02/10/2020"
+output:
+  ioslides_presentation:
+    css: ../style.css
+    fig_caption: yes
+    font-family: Lato Semibold
+    font-import: http://fonts.googleapis.com/css?family=Lato
+    widescreen: yes
+  beamer_presentation: default
+---
+
+# Week 04
+
+## What's Available
+
+I'm regularly getting questions from students who don't appear to know what's
+actually being posted to Blackboard. So here's a summary:
+
+* every lecture: Friday asynch videos, Monday asynch videos, and
+recordings of the Tuesday live session (3-5pm)
+* every workshop: both a "main copy" (with Prof Burr talking to the TAs as if they
+were the students, and he were the TA), and recordings of live sessions with TAs
+Sophie and Skye, so you can get a feel for a "real workshop" session
+* extras videos on technical issues - and problem solving, starting this week!
+* these weekly recordings
+
+**Please** go into Course Content, and explore. I update the folders with new videos
+every two days or so (Monday mornings, Tuesday evenings, Wednesday evenings, Thursday
+morning, and Friday morning).
+
+## Microsoft Teams
+
+There are still folks joining Microsoft Teams regularly - this really is where you should
+be going to get help! We have a great set of TAs, and there is an office hour every single
+morning and afternoon all week - drop in to Zoom, ask questions, get help with your 
+assignments.
+
+## Schedule
+
+* Friday 2nd - seventh lecture (random variables) posted
+* Monday 5th - eighth lecture (binomial and normal distributions) posted
+* Tuesday 6th - in-person overview of eighth lecture, plus commentary, Q&A
+* Tuesday 6th / Wednesday 7th - fourth in-person workshop - learning about plotting
+
+There is a PDF posted on Blackboard with full details of the next six weeks.
+Go check it out!
+
+## To Do List
+
+* finish WeBWorK Assignment #03 for tonight (Friday night, 2nd!)
+* get caught up on lectures, watch Lecture 07 (today) and 08 (Monday the 5th) asynch version
+* finish your readings of Chapter 3 if you haven't already
+* finish R Assignment #1
+* catch your breath for WeBWorK - the next one isn't due until the 12th, when 
+we go to Monday deadlines for the next three weeks
+
+## Readings for Next Week (to go with Lectures 07 and 08)
+
+* OpenIntro Statistics - Chapters 3.4, 3.5, 4.3 and 4.1 (in that order)
+* The Book of R - Chapters 2.3, 14.2 and 14.3
+
+## Other Details?
+
+* TA and prof office hours ran all week
+    
+    - check the schedule on Blackboard
+    - use them!
+    - Teams is the fast way to get a response
+    
+    
