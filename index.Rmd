@@ -141,7 +141,7 @@ class: inverse
 
 **Lecture 08 - Binomial and Normal Distributions**
 
-<a href="./Lecture08/lecture08.html">HTML</a>; 
-<a href="./Lecture08/lecture08.pdf">PDF</a>
-
+<a href="./Lecture08/lecture08.html">HTML (live)</a>; 
+<a href="./Lecture08/lecture08_live.pdf">PDF (live)</a>;
+<a href="./Lecture08/lecture08_asynch.pdf">PDF (asynch)</a>
 <br />
