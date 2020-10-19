@@ -1,0 +1,72 @@
+---
+title: '1051H 2020FA: Week #05'
+author: "Wesley Burr"
+date: "09/10/2020"
+output:
+  ioslides_presentation:
+    css: ../style.css
+    fig_caption: yes
+    font-family: Lato Semibold
+    font-import: http://fonts.googleapis.com/css?family=Lato
+    widescreen: yes
+  beamer_presentation: default
+---
+
+# Week 05
+
+## What's Available
+
+I'm regularly getting questions from students who don't appear to know what's
+actually being posted to Blackboard. So here's a summary:
+
+* every lecture: Friday asynch videos, Monday asynch videos, and
+recordings of the Tuesday live session (3-5pm)
+* every workshop: both a "main copy" (with Prof Burr talking to the TAs as if they
+were the students, and he were the TA), and recordings of live sessions with TAs
+Sophie and Skye, so you can get a feel for a "real workshop" session
+* extras videos on technical issues - and problem solving (including binomials!)
+* these weekly reminders
+
+**Please** go into Course Content, and explore. I update the folders with new videos
+every two days or so (Monday mornings, Tuesday evenings, Wednesday evenings, Thursday
+morning, and Friday morning).
+
+## Microsoft Teams
+
+There are still folks joining Microsoft Teams regularly - this really is where you should
+be going to get help! We have a great set of TAs, and there is an office hour every single
+morning and afternoon all week - drop in to Zoom, ask questions, get help with your 
+assignments.
+
+## Schedule
+
+* Friday 9th - 9th lecture (normal approximation to binomial) posted
+* Monday 12th - 10th lecture (normal distribution and problems, introduction to inference) posted
+(even though it's Thanksgiving, it'll still be up!)
+* Tuesday 13th - in-person overview of 10th lecture, plus commentary, Q&A
+* Tuesday 13th / Wednesday 14th - fifth in-person workshop - learning about plotting
+
+There is a PDF posted on Blackboard with full details of the next six weeks.
+Go check it out!
+
+## To Do List
+
+* finish WeBWorK Assignment #04 for Wednesday the 14th
+* get caught up on lectures, watch Lecture 09 (today) and 10 (Monday the 12th) asynch version
+* finish your readings of Chapters 4.3 and 4.1 if you haven't already
+* get started on R Assignment #2
+
+## Readings for Next Week (to go with Lectures 09 and 10)
+
+* OpenIntro Statistics - Chapters 4.3, 4.1, 5.1
+* The Book of R - Chapters 16.1.2 and 16.2.2
+
+## Other Details?
+
+* TA and prof office hours ran all week
+    
+    - check the schedule on Blackboard
+    - use them!
+    - Teams is the fast way to get a response
+    
+    

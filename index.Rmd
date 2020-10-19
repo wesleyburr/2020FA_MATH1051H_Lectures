@@ -1,7 +1,7 @@
 ---
 title: "2020FA MATH 1051H: Lecture Links"
 author: 'Dr. Wesley S. Burr'
-date: 2020-10-02
+date: 2020-10-18
 output:
   xaringan::moon_reader:
     chakra: remark-latest.min.js
@@ -144,4 +144,50 @@ class: inverse
 <a href="./Lecture08/lecture08.html">HTML (live)</a>; 
 <a href="./Lecture08/lecture08_live.pdf">PDF (live)</a>;
 <a href="./Lecture08/lecture08_asynch.pdf">PDF (asynch)</a>
+<br />
+
+
+---
+
+class: inverse
+
+## Week 05
+
+<a href="./Week05/week05.html">HTML</a>; 
+<a href="./Week05/week05.pdf">PDF</a>
+
+<br/>
+
+**Lecture 09 - Normal Approx to Binomial; Inverse Normal**
+
+<a href="./Lecture09/lecture09.html">HTML</a>; 
+<a href="./Lecture09/lecture09.pdf">PDF</a>
+
+<br />
+
+**Lecture 10 - Binomial + Normal, Problem Solving**
+
+<a href="./Lecture10/lecture10.html">HTML (live)</a>; 
+<a href="./Lecture10/lecture10_asynch.pdf">PDF (asynch)</a>
+<br />
+
+---
+
+class: inverse
+
+## Week 06
+
+<a href="./Week06/week06.html">HTML</a>; 
+<a href="./Week06/week06.pdf">PDF</a>
+
+<br/>
+
+**Lecture 11 - Canceled**
+
+<br />
+
+**Lecture 12 - Scatterplots and Linear Models**
+
+<a href="./Lecture12/lecture12.html">HTML (live)</a>; 
+<a href="./Lecture12/lecture12_asynch.pdf">PDF (asynch)</a>
 <br />
