@@ -1,7 +1,7 @@
 ---
 title: "2020FA MATH 1051H: Lecture Links"
 author: 'Dr. Wesley S. Burr'
-date: 2020-10-18
+date: 2020-10-22
 output:
   xaringan::moon_reader:
     chakra: remark-latest.min.js
@@ -190,4 +190,21 @@ class: inverse
 
 <a href="./Lecture12/lecture12.html">HTML (live)</a>; 
 <a href="./Lecture12/lecture12_asynch.pdf">PDF (asynch)</a>
+<br />
+
+---
+
+class: inverse
+
+## Week 07
+
+<a href="./Week07/week07.html">HTML</a>; 
+<a href="./Week07/week07.pdf">PDF</a>
+
+<br/>
+
+**Lecture 13 - Sampling Distributions and the CLT**
+
+<a href="./Lecture13/lecture13.html">HTML (asynch)</a>; 
+<a href="./Lecture13/lecture13.pdf">PDF (asynch)</a>
 <br />

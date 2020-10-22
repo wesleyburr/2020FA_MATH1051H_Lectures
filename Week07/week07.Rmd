@@ -1,0 +1,47 @@
+---
+title: '1051H 2020FA: Week #07'
+author: "Wesley Burr"
+date: "22/10/2020"
+output:
+  ioslides_presentation:
+    css: ../style.css
+    fig_caption: yes
+    font-family: Lato Semibold
+    font-import: http://fonts.googleapis.com/css?family=Lato
+    widescreen: yes
+  beamer_presentation: default
+---
+
+# Week 07
+
+## Schedule
+
+* Friday 23rd - 13th lecture (sampling distributions, CLT) posted
+* Monday 2nd - 14th lecture (hypothesis testing) posted
+* Tuesday 3rd - in-person overview of 14th lecture, plus commentary, Q&A
+* Tuesday 3rd / Wednesday 4th - 7th in-person workshop - data frames!
+
+There is a PDF posted on Blackboard with full details of the entire semester,
+including the schedule for the second stretch of 6 weeks **after** Reading Week.
+Please review it, and add reminders in your calendar.
+
+## To Do List
+
+* finish R Assignment #2 (today! No late submissions!)
+* get caught up on lectures, watch Lecture 13 (today) and 14 (Monday the 2nd) asynch version
+* finish your readings of Chapters 8.1 and 8.2
+* finish WeBWorK Assignment #06 for Tuesday the 3rd
+
+## Readings for Next Week (to go with Lectures 13 and 14)
+
+* OpenIntro Statistics - Chapters 5.1, 5.2, (some) 5.3
+* The Book of R - Chapter 5.2 (entire)
+
+## Other Details?
+
+* TA and prof office hours will not be operating over Reading Week
+* Once we're back:
+    - check the schedule on Blackboard
+    - use them!
+    - Teams is the fastest way to get a response
+    
