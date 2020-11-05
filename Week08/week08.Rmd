@@ -1,0 +1,46 @@
+---
+title: '1051H 2020FA: Week #08'
+author: "Wesley Burr"
+date: "04/11/2020"
+output:
+  ioslides_presentation:
+    css: ../style.css
+    fig_caption: yes
+    font-family: Lato Semibold
+    font-import: http://fonts.googleapis.com/css?family=Lato
+    widescreen: yes
+  beamer_presentation: default
+---
+
+# Week 08
+
+## Schedule
+
+* Friday 6th - 15th lecture (t distribution, linear model hypotheses) posted
+* Monday 9th - 16th lecture (more hypothesis testing) posted
+* Tuesday 10th - in-person overview of 16th lecture, plus commentary, Q&A
+* Tuesday 10th / Wednesday 11th - 8th in-person workshop - linear models
+
+There is a PDF posted on Blackboard with full details of the entire semester,
+including the schedule for the second stretch of 6 weeks **after** Reading Week.
+Please review it, and add reminders in your calendar.
+
+## To Do List
+
+* get caught up on lectures, watch Lecture 15 (today) and 16 (Monday the 2nd) asynch version
+* finish your readings of Chapters 5.1 and 5.2
+* finish WeBWorK Assignment #07 for Tuesday the 10th
+* get started on R Assignment #3 (due on the 17th at 5:00pm)
+
+## Readings for Next Week (to go with Lectures 15 and 16)
+
+* OpenIntro Statistics - Chapters 5.1, 5.2, (some) 5.3; 8.3
+* The Book of R - Chapter 5.2 (entire)
+
+## Other Details?
+
+* TA and prof office hours are back on
+    - check the schedule on Blackboard
+    - use them!
+    - Teams is the fastest way to get a response
+    - on there everyday, just DM.

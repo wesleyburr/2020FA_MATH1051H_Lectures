@@ -208,3 +208,33 @@ class: inverse
 <a href="./Lecture13/lecture13.html">HTML (asynch)</a>; 
 <a href="./Lecture13/lecture13.pdf">PDF (asynch)</a>
 <br />
+
+**Lecture 14 - Hypothesis Tests**
+
+<a href="./Lecture14/lecture14.html">HTML (asynch)</a>; 
+<a href="./Lecture14/lecture14.pdf">PDF (asynch)</a>
+<br />
+
+---
+
+class: inverse
+
+## Week 08
+
+<a href="./Week07/week07.html">HTML</a>; 
+<a href="./Week07/week07.pdf">PDF</a>
+
+<br/>
+
+**Lecture 15 - t distribution, Linear Model Hypotheses**
+
+<a href="./Lecture15/lecture15.html">HTML (asynch)</a>; 
+<a href="./Lecture15/lecture15.pdf">PDF (asynch)</a>
+<br />
+
+**Lecture 16 - More Hypothesis Tests**
+
+<a href="./Lecture16/lecture16.html">HTML (asynch)</a>; 
+<a href="./Lecture16/lecture16.pdf">PDF (asynch)</a>
+<br />
+
